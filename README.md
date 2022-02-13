@@ -16,19 +16,11 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
 
---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?rsh1337=anuraghazra&show_icons=true)
-
-</details>
 
 [website]: https://rares-andrei.me
 [twitter]: https://twitter.com/Rares_Andrei17
