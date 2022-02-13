@@ -46,8 +46,6 @@
 
 <img align="left" alt="Rpi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-line.svg" style="padding-right:10px;" />
 
-<img align="left" alt="JetBrains" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />
-
 
 
 <br />
