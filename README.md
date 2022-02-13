@@ -26,7 +26,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Rares's GitHub Stats" src="https://github-readme-stats-git-master-rsh1337.vercel.app/api/top-langs/rsh1337=anuraghazra&layout=compact" />
+  <img align="left" alt="Rares's GitHub Stats" src="https://github-readme-stats-git-master-rsh1337.vercel.app/api/top-langs/?rsh1337=anuraghazra&layout=compact" />
 
 </details>
 
