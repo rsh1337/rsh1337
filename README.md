@@ -14,12 +14,6 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/Rares.Andrei17#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/Rares.Andrei17#gh-dark-mode-only) -->
 
-
-
-<br />
-<br />
-
-
 [website]: https://rares-andrei.me
 [twitter]: https://twitter.com/Rares_Andrei17
 [instagram]: https://instagram.com/Rares.Andrei17
